@@ -8,6 +8,10 @@
 
 </div>
 
+## 📸 Dashboard
+
+<p align="center"><img src="images/dashboard.png" alt="Dashboard preview" width="100%"/></p>
+
 ---
 
 ## ❓ Business questions
@@ -27,6 +31,18 @@ Sales transactions with **firm, product, category, city, sales amount (AZN), sal
 - **Best-Selling Products by Firm and Category** — treemap
 - **Logistics Expenses by Top-Selling Products and Cities** — pie chart
 - **Total Sales** — gauge KPI
+
+## 🔢 Headline KPIs
+
+| Total sales | Brands | Cities |
+|:-:|:-:|:-:|
+| **68.89K** | **Philips · Samsung · Vitek · Zelmer** | **Baku · Ganja · Barda · Julfa** |
+
+## 💡 Key insights
+
+- **Philips** is the strongest brand in the home-appliances category, followed by **Samsung** and **Vitek**.
+- The top 10 products sell at a very similar level (≈55–65 units each), so revenue is not dependent on a single product.
+- Logistics costs are spread fairly evenly: **Baku** and **Julfa** carry the largest share (≈15% and ≈13% per top product), **Barda** the smallest (≈10%).
 
 ## 🧠 Skills demonstrated
 
